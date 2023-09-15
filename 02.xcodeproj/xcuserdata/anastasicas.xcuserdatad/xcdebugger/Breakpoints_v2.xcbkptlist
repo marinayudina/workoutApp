@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5793F1D8-22BD-466B-969D-9226429D5F1E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E696E563-6C1B-4928-AC5F-42EFCEB08DC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02/NewWorkoutModule/Views/NameView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getNameTextFieldText()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD1B8900-00B1-4091-8C30-A4ED75B82614"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02/NewWorkoutModule/Controllers/NewWorkoutViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "saveModel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD1B8900-00B1-4091-8C30-A4ED75B82614 - cd8cb20bd7630212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2.NewWorkoutViewController.saveModel() -&gt; ()"
+                  moduleName = "02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasicas/Desktop/%D0%9A%D1%83%D1%80%D1%81_%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%87%D0%B5%D0%B2/workout_app/02/02/NewWorkoutModule/Controllers/NewWorkoutViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "BD1B8900-00B1-4091-8C30-A4ED75B82614 - c91ce3b0ffdf16b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Character) -&gt; Swift.Bool in _2.NewWorkoutViewController.saveModel() -&gt; ()"
+                  moduleName = "02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasicas/Desktop/%D0%9A%D1%83%D1%80%D1%81_%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%87%D0%B5%D0%B2/workout_app/02/02/NewWorkoutModule/Controllers/NewWorkoutViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "59">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1816F2C6-6EDD-4E4B-B49B-B701F25107F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02/NewWorkoutModule/Cells/SelectWorkoutCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "imageView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1816F2C6-6EDD-4E4B-B49B-B701F25107F7 - e1e24ce04a02652f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIImageView in variable initialization expression of _2.SelectWorkoutCell.imageView : __C.UIImageView"
+                  moduleName = "02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasicas/Desktop/%D0%9A%D1%83%D1%80%D1%81_%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%87%D0%B5%D0%B2/workout_app/02/02/NewWorkoutModule/Cells/SelectWorkoutCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "1816F2C6-6EDD-4E4B-B49B-B701F25107F7 - c447e13c8ed819e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2.SelectWorkoutCell.init(frame: __C.CGRect) -&gt; _2.SelectWorkoutCell"
+                  moduleName = "02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasicas/Desktop/%D0%9A%D1%83%D1%80%D1%81_%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%87%D0%B5%D0%B2/workout_app/02/02/NewWorkoutModule/Cells/SelectWorkoutCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "1816F2C6-6EDD-4E4B-B49B-B701F25107F7 - 66e9843192dc3b41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2.SelectWorkoutCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_2.SelectWorkoutCell&gt;"
+                  moduleName = "02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasicas/Desktop/%D0%9A%D1%83%D1%80%D1%81_%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%87%D0%B5%D0%B2/workout_app/02/02/NewWorkoutModule/Cells/SelectWorkoutCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41E9ED80-A58B-46E8-8B60-2D6FBE47CE91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02/Network/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "requestData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6233C149-3496-4482-A722-D91C1C1AD460"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02/MainModule/Controllers/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B6F55AA-3A82-4949-86A8-120537E4D611"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02/MainModule/Controllers/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
